@@ -12,10 +12,11 @@ This guide will help you set up and run the application.
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Astrovisio/AstroAPI.git
-   cd AstroAPI
+   git clone https://github.com/Astrovisio/POC-release.git
+   (or git clone https://github.com/Astrovisio/POC-release.git)
+   cd POC-release/AstroAPI
    ```
-2. **Create a `.env` File**:
+2. **Create a `.env` File inside POC-release/AstroAPI**:
    
    This file should define the path to your local data directory. The data must be stored in a folder named astrodata.
    Example `.env`:
